@@ -1,5 +1,7 @@
 # Real Estate Price Prediction - Regression Analysis
 
+![Image](https://github.com/user-attachments/assets/338b94b6-0b91-4d6d-9d98-085b2f13a51e)
+
 ## Overview
 This project focuses on analyzing real estate prices using multiple regression analysis. The primary objective is to understand how various factors, such as location, amenities, and accessibility, impact property prices per unit area.
 
