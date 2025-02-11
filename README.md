@@ -77,15 +77,11 @@ The regression analysis highlights that **proximity to MRT stations and availabi
    ```bash
    pip install pandas numpy statsmodels matplotlib seaborn
    ```
-2. Run the regression script:
-   ```bash
-   python regression_analysis.py
-   ```
 
 ## Future Enhancements
 - Exploring non-linear regression models.
 - Incorporating additional real estate factors such as crime rates and school proximity.
 - Improving feature selection techniques for better model performance.
 
-## License
-This project is licensed under the MIT License.
+### Colaboration
+-if you want colaboration, you can reach me via my E-mail address(oluwagbemiga.oa55@gmail.com)
