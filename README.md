@@ -1,4 +1,4 @@
-# Real Estate Price Prediction - Regression Analysis
+# House Price Prediction - Regression Analysis
 
 ![Image](https://github.com/user-attachments/assets/338b94b6-0b91-4d6d-9d98-085b2f13a51e)
 
