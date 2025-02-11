@@ -85,5 +85,5 @@ The regression analysis highlights that **proximity to MRT stations and availabi
 - Incorporating additional real estate factors such as crime rates and school proximity.
 - Improving feature selection techniques for better model performance.
 
-### Colaboration
--if you want colaboration, you can reach me via my E-mail address(oluwagbemiga.oa55@gmail.com)
+ I am open to collaboration od Data Analysis, Statistical Analysis and Visualization related projests.  you can reach me via my E-mail address(oluwagbemiga.oa55@gmail.com)
+
